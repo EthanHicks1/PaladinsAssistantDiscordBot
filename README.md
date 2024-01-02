@@ -2,7 +2,7 @@
 
 # Paladins Assistant
 
-<a href="https://github.com/EthanHicks1/PaladinsAssistantBot" title="Paladins Assistant" alt="Paladins Assistant"><img src="icons/miscellaneous/Androxus.png" height="200" width="200"></a>
+<a href="https://github.com/EthanHicks1/PaladinsAssistantDiscordBot" title="Paladins Assistant" alt="Paladins Assistant"><img src="icons/miscellaneous/Androxus.png" height="200" width="200"></a>
 
 [![Discord Server](https://img.shields.io/discord/554372822739189761.svg?style=plastic&logo=discord&logoWidth=15)](https://discord.gg/njT6zDE "Support Server · Discord")
 ![Static Badge](https://img.shields.io/badge/Python-3.8-blue?logo=python&logoColor=yellow&link=https%3A%2F%2Fwww.python.org%2F "Python Runtime Version")
