@@ -1,0 +1,50 @@
+{
+  "random_damage": {
+    "en": "Your random Damage champion is:",
+    "pl": "Twój losowy czempion klasy Napastnik to:",
+    "pt": "O Dano escolhido é:",
+    "fr": "Votre champion aléatoire de la classe Dégât est:"
+  },
+  "random_flank": {
+    "en": "Your random Flank champion is:",
+    "pl": "Twój losowy czempion klasy Skrzydłowy to:",
+    "pt": "O Flanco escolhido é:",
+    "fr": "Votre champion aléatoire de la classe Flanc est:"
+  },
+  "random_healer": {
+    "en": "Your random Support/Healer champion is:",
+    "pl": "Twój losowy czempion klasy Wsparcie to:",
+    "pt": "O Suporte/Healer escolhido é:",
+    "fr": "Votre champion aléatoire de la classe Soutien est:"
+  },
+  "random_tank": {
+    "en": "Your random FrontLine/Tank champion is:",
+    "pl": "Twój losowy czempion klasy Obrońca to:",
+    "pt": "O Tanque/FrontLine escolhido é:",
+    "fr": "Votre champion aléatoire de la classe Tank est:"
+  },
+  "random_champ": {
+    "en": "Your random champion is:",
+    "pl": "Twój losowy czempion to:",
+    "pt": "O campeão escolhido é:",
+    "fr": "Votre champion aléatoire est:"
+  },
+  "random_team": {
+    "en": "Your random team is:",
+    "pl": "Twoja losowa drużyna to:",
+    "pt": "Seu time é:",
+    "fr": "Votre équipe aléatoire est:"
+  },
+  "random_map": {
+    "en": "Your random map is:",
+    "pl": "Twoja losowa mapa to:",
+    "pt": "O mapa escolhido é:",
+    "fr": "Votre carte aléatoire est:"
+  },
+  "random_invalid": {
+    "en": "Invalid command. For the random command please choose from one following options: \n damage, flank, healer, tank, champ, team, or map. \n For example: `>>random damage` will pick a random damage champion",
+    "pl": "Niepoprawna komenda. Dla komendy losuj możesz użyć jednej z opcji: \n napastnik, skrzydłowy, wsparcie, obrońca, czempion, drużyna lub mapa. \n Przykład: `>>losuj napastnik` pokaże losowego czempiona klasy napastnik",
+    "pt": "Comando inválido. Para usar o comando `random`, por favor, escolha uma das seguintes opções: \n dano, flanco, suporte, tank, champ, time ou mapa. \n Por exemplo: `>>random dano` vai escolher um campeão de dano aleatoriamente",
+    "fr": "Commande invalide. Pour une commande aléatoire, veuillez choisir une des options suivantes: \n degat, flanc, soutien, tank, champion, equipe, carte. \n Par exemple: `>>aleatoire degat` sélectionnera un champion aléatoire de la classe dégât."
+  }
+}

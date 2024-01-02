@@ -1,0 +1,6 @@
+{
+  "damages": ["Cassie", "Kinessa", "Drogoz", "Bomb King", "Viktor", "Sha Lin", "Tyra", "Willo", "Lian", "Strix", "Vivian", "Dredge", "Imani", "Tiberius", "Octavia", "Saati", "Betty la Bomba", "Kasumi", "Omen"],
+  "flanks": ["Skye", "Buck", "Evie", "Androxus", "Maeve", "Lex", "Zhin", "Talus", "Moji", "Koga", "Vora", "Vatu", "VII", "Caspian"],
+  "tanks": ["Barik", "Fernando", "Ruckus", "Makoa", "Torvald", "Inara", "Ash", "Terminus", "Khan", "Atlas", "Raum", "Yagorath", "Azaan", "Nyx"],
+  "supports": ["Grohk", "Grover", "Ying", "Mal Damba", "Seris", "Jenos", "Furia", "Pip", "Io", "Corvus", "Rei", "Lillith"]
+}

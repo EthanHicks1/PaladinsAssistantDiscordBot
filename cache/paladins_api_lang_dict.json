@@ -1,0 +1,44 @@
+{
+  "general_error": {
+    "en": "Can't get stats for {} because their account is private.",
+    "pl": "Nie mogę uzyskać statystyk gracza {}, ponieważ jego konto jest prywatne.",
+    "pt": "Não é possível obter stats porque {} tem perfil privado.",
+    "fr": "Impossible d'obtenir les statistiques du compte {}, parce que ce compte est privé",
+    "tr": "için istatistik alınamıyor {} çünkü hesap gizli."
+  },
+  "general_error2": {
+    "en": "Can't find the player: {}. Please make sure the name is spelled correctly (Capitalization does not matter).",
+    "pl": "Nie mogę znaleźć gracza: {}. Upewnij się, że poprawnie wpisujesz nazwę. (Wielkość liter nie ma znaczenia).",
+    "pt": "Jogador {} não existe. Por favor, verifique se o nome está correto! (Letras maiúsculas não importam).",
+    "fr": "Impossible de trouver le joueur: {} ou ce compte est privé. Veuillez vérifier que le nom est écrit correctement (la capitalisation ne change rien).",
+    "tr": "Oyuncu bulunamadı: {}. Lütfen oyuncu adının doğru yazıldığından emin olun (Büyük harf kullanımı önemli değil)."
+  },
+  "stats_s1": {
+    "en": "Casual stats:*\nName: {}\nAccount Level: {}\nWin Rate: {}% ({}-{})\nKDA: {}\nTimes Deserted: {}",
+    "pl": "Statystyki szybkich gier:*\nNazwa: {}\nPoziom konta: {}\nProcent wygranych gier: {}% ({}-{})\nKDA: {}\nOpuszczone mecze: {}",
+    "pt": "Casual stats:*\nNome: {}\nLevel: {}\nWin Rate: {}% ({}-{})\nKDA: {}\nDesertor: {}",
+    "fr": "Statistiques de parties normales:*\nNom de compte: {}\nNiveau de compte: {}\nRatio de victoire: {}% ({}-{})\nKDA: {}\nNombre de désertions: {}",
+    "tr": "Gündelik istatistikleri:*\nİsim: {}\nHesap Seviyesi: {}\nKazanma Oranı: {}% ({}-{})\nKD: {}\nOyundan kaçtığı zamanlar: {}"
+  },
+  "stats_s2": {
+    "en": "Ranked stats for Season {}:*Rank: {}\nTP: {} (position: {})\nWin Rate: {}% ({}-{})\nTimes Deserted: {}",
+    "pl": "Statystyki gier rankingowych w sezonie {}:*\nRanga: {}\nTP: {} (pozycja: {})\nProcent wygranych gier: {}% ({}-{})\nOpuszczone mecze: {}",
+    "pt": "Ranked stats - Temporada {}:*\nRank: {}\nTP: {} ({}° no rank)\nWin Rate: {}% ({}-{})\nTDesertor: {}",
+    "fr": "Statistiques de parties classées pour la Saison {}:*\nClassement: {}\nPoints: {} (position: {})\nRatio de victoire: {}% ({}-{})\nNombre de désertions: {}",
+    "tr": "Sezon için dereceli istatistikleri {}:*Derece: {}\nTP: {} (pozisyon: {})\nKazanma oranı: {}% ({}-{})\nOyundan kaçtığı zamanlar: {}"
+  },
+  "stats_s3": {
+    "en": "Extra details:*Account created on: {}\nLast login on: {}\nPlatform: {}\nMasteryLevel: {}\nSteam Achievements completed: {}/58",
+    "pl": "Dodatkowe informacje:*\nKonto stworzone: {}\nOstatnie logowanie: {}\nPlatforma: {}\nLiczba posiadanych czempionów: {}\nLiczba ukończonych osiągnięć na Steamie: {}/58",
+    "pt": "Extra details:*\nCriado em: {}\nÚltimo login: {}\nPlatforma: {}\nMasteryLevel: {}\nSteam Achievements: {}/58",
+    "fr": "Détails supplémentaires:*\nCompte créé le: {}\nDernière connexion le: {}\nPlateforme: {}\nNiveau de maîtrise: {}\nSuccès Steam complétés: {}/58",
+    "tr": "Diğer detaylar:*Hesabın oluşturulduğu zaman: {}\nSon giriş tarihi: {}\nPlatform: {}\nUstalık seviyesi: {}\nTamamlanan Steam başarıları: {}/58"
+  },
+  "stats_champ": {
+    "en": "Champion:*{} (Lv {})\nKDA:*{} ({}-{}-{})\nWin Rate:*{}% ({}-{}) \nLast Played:*{}",
+    "pl": "Czempion:*{} (Poziom {})\nKDA:*{} ({}-{}-{})\nProcent wygranych gier:*{}% ({}-{})\nOstatnia gra:*{}",
+    "pt": "Campeão:*{} (Nível {})\nKDA:*{} ({}-{}-{})\nWin Rate:*{}% ({}-{}) \nJogado pela última vez:*{}",
+    "fr": "Champion:*{} (Niveau {})\nKDA:*{} ({}-{}-{})\nRatio de victoire:*{}% ({}-{}) \nJoué pour la dernière fois le:*{}",
+    "tr": "Şampiyon:*{} (Lv {})\nKD:*{} ({}-{}-{})\nKazanma Oranı:*{}% ({}-{}) \nSon Oyun:*{}"
+  }
+}
